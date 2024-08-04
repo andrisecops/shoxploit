@@ -41,8 +41,8 @@ Options:
 |    shoxploit.py    |
 | ------------- |
 |![Index](./here2.png)|
-
-
+|    asciicast    |
+[![asciicast](https://asciinema.org/a/U19d2vVog7pQfQlCHP3Bx6Nkt.svg)](https://asciinema.org/a/U19d2vVog7pQfQlCHP3Bx6Nkt)
 
 
 
